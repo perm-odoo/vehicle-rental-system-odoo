@@ -1,0 +1,7 @@
+<odoo>
+    <record id='owner_action' model='ir.actions.act_window'>
+        <field name='name'>Owners</field>
+        <field name='res_model'>rental.owners</field>
+        <field name='view_mode'>tree,form</field>
+    </record>
+</odoo>

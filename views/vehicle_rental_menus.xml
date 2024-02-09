@@ -1,0 +1,10 @@
+<odoo>
+    <menuitem id='vehicle_rental_menu_root' name='Vehicle Rental'>
+        <menuitem id='owner_first_level_menu' name='Owners'>
+            <menuitem id='owner_menu_action' action='owner_action'/>
+        </menuitem>
+        <menuitem id='vehicle_first_level_menu' name='Vehicles'>
+            <menuitem id='vehicle_menu_action' action='vehicle_action'/>
+        </menuitem>
+    </menuitem>
+</odoo>
